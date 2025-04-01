@@ -3,15 +3,13 @@
 **Autor**: [Óscar Pacheco Fernández]  
  
 ## 📌 Descripción  
-Breve descripción del proyecto. Explica su propósito, funcionalidades principales y cualquier información relevante que los usuarios deban conocer antes de empezar.  
  
-Ejemplo:  
 *"Este proyecto es un análisis de datos para un [departamento de marketing]. Permite [limpiar datos], [analizar datos] y está construido con [python y diferentes librerías]."*  
  
 ## 🚀 Características  
 - **Característica 1**: Lectura del archivo.  
-- **Característica 1**: Limpieza de datos.  
-- **Característica 1**: Análisis de datos.  
+- **Característica 2**: Limpieza de datos.  
+- **Característica 3**: Análisis de datos.  
  
 ## 🛠️ Tecnologías Utilizadas  
 - Lenguaje: [Python]  
