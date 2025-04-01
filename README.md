@@ -39,7 +39,7 @@ Al observar los archivos aparecen algunos errores pero al descargarlo en local y
 6. **Elimino filas con valores NaN (Not a Number)**
 ![](imagenesReadme/foto6.PNG)
 7. **Elimino filas duplicadas en el DataFrame**  
-![](imagenesReadme/foto7PNG)
+![](imagenesReadme/foto7.PNG)
 8. **Muestro cantidad de filas y columnas del DataFrame limpio**
 ![](imagenesReadme/foto8.PNG)  
 9. **Corrijo formato de fechas**
